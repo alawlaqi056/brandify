@@ -1,0 +1,17 @@
+BRANDIFY - START HERE
+
+1. Open the inner "app" folder in VS Code.
+2. Open Terminal > New Terminal.
+3. Run:
+
+   npm install
+   npm run dev
+
+4. Open http://localhost:3000
+
+Admin login:
+Email: admin@brandify.local
+Password: BrandifyLocal!2026
+
+Orders and admin data are saved automatically in app\brandify-local.db.
+You do not need MySQL and you do not need to edit any code or .env files.
